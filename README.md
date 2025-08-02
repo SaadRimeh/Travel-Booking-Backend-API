@@ -36,7 +36,7 @@ A comprehensive Node.js backend API for a travel booking and management system. 
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd azizBackendNodejs
+   cd BackendNodejs
    ```
 
 2. **Install dependencies**
@@ -48,7 +48,7 @@ A comprehensive Node.js backend API for a travel booking and management system. 
    Create a `.env` file in the root directory:
    ```env
    PORT=5000
-   MONGODB_URI=mongodb://localhost:27017/travel_booking
+   MONGODB_URI=mongodb://localhost:27017/travel_booking (for EXAMPLE)
    JWT_SECRET=your_jwt_secret_key_here
    ```
 
