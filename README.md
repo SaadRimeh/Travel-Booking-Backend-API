@@ -1,4 +1,4 @@
-# Aziz Travel Booking Backend API
+#  Travel Booking Backend API
 
 A comprehensive Node.js backend API for a travel booking and management system. This API provides endpoints for user authentication, flight search, trip booking, destination management, and various travel services.
 
